@@ -5,6 +5,8 @@ A web Project of Ecommerce website .
 *  A dynamic E-Cart for every user .
 *  Forgot Password Option 
 *  Reset Password Option
+*  Encrypted Passwords 
+*  Injections Security
 *  And Many More 
 # Frontend Part
 $ HTML5
